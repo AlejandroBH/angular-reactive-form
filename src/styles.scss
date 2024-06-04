@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+@import "primeicons/primeicons.css";
+
+:root {
+  --bg-color-primary: #f8fafc;
+  --card-border: 1px solid #e2e8f0;
+}
+
+// Reset CSS
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--bg-color-primary);
+}
