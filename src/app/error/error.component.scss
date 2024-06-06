@@ -1,0 +1,13 @@
+.error {
+  text-align: center;
+
+  &__type {
+    font-size: 74px;
+    margin: 0;
+  }
+
+  &__description {
+    font-size: 20px;
+    margin: 0;
+  }
+}
